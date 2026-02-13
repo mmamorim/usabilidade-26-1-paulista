@@ -2,6 +2,8 @@
 
 # 2026/01 - USJT - PAULISTA - NOITE (Sexta)
 
+**email:** prof.marceloamorim@ulife.com.br
+
 ##### link deste repositório: 
 ## https://github.com/mmamorim/usabilidade-26-1-paulista
 
