@@ -12,3 +12,4 @@
 
 * [Aula 01](./Aula01_13FEV/) (13/02) - Apresentação da UC
 * [Aula 02](./Aula02_20FEV/) (20/02) - HTML
+* [Aula 03](./Aula03_27FEV/) (27/02) - HTML
